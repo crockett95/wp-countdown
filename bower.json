@@ -1,0 +1,11 @@
+{
+  "name": "wp-countdown",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "bootstrap-sass": "twbs/bootstrap-sass#~3.1.1",
+    "kbwood_countdown": "~2.0.0"
+  },
+  "devDependencies": {}
+}
