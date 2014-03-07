@@ -1,0 +1,1 @@
+!function(a){"use strict";var b=new Date("2014-03-11T14:00:00+0000");a("#countdown").countdown({until:b,compact:!0,layout:"{dnn}{dl}&nbsp;{hnn}{sep}{mnn}{sep}{snn}"})}(jQuery);
